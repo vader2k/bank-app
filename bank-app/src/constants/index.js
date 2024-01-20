@@ -174,7 +174,7 @@ export const socialMedia = [
     id: "social-media-4",
     icon: linkedin,
     link: "https://www.linkedin.com/",
-  },
+  }
 ];
 
 export const clients = [
